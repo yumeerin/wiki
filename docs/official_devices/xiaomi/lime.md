@@ -5,7 +5,7 @@ pagination_prev: null
 title: "Redmi 9T/9T NFC/9 Power/Note 9 4G (lime)"
 ---
 
-# Redmi 9T/9T NFC/8 Power/Note 9 4G (lime)
+# Redmi 9T/9T NFC/9 Power/Note 9 4G (lime)
 :::info
 ## Device Information
 
