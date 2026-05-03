@@ -2,7 +2,7 @@
 slug: /devices/lime
 pagination_next: null
 pagination_prev: null
-title: "Redmi 9T/9T NFC/8 Power/Note 9 4G (lime)"
+title: "Redmi 9T/9T NFC/9 Power/Note 9 4G (lime)"
 ---
 
 # Redmi 9T/9T NFC/8 Power/Note 9 4G (lime)
@@ -28,6 +28,15 @@ title: "Redmi 9T/9T NFC/8 Power/Note 9 4G (lime)"
 :::caution
 Make sure to backup your data before proceeding.
 :::
+
+### Web-based Installer
+The easiest way to install Halcyon is via our browser-based Web Flasher. 
+
+1. Reboot your device into **Fastboot mode** (Power + Volume Down).
+2. Connect your device to your PC via USB.
+3. Open the [Halcyon Web Flasher](https://flash.hlcyn.org) in a Chromium-based browser (Chrome, Edge, or Brave).
+4. Select **Redmi 9T/9T NFC/9 Power/Note 9 4G (lime)** from the device list.
+5. Click **Connect Device** and follow the on-screen instructions to complete the installation.
 
 ### Fastboot package installation
 

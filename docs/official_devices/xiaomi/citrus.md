@@ -29,6 +29,15 @@ title: "POCO M3 (citrus)"
 Make sure to backup your data before proceeding.
 :::
 
+### Web-based Installer
+The easiest way to install Halcyon is via our browser-based Web Flasher. 
+
+1. Reboot your device into **Fastboot mode** (Power + Volume Down).
+2. Connect your device to your PC via USB.
+3. Open the [Halcyon Web Flasher](https://flash.hlcyn.org) in a Chromium-based browser (Chrome, Edge, or Brave).
+4. Select **POCO M3 (citrus)** from the device list.
+5. Click **Connect Device** and follow the on-screen instructions to complete the installation.
+
 ### Fastboot package installation
 
 If you want to install using the Fastboot package, the complete installation guide is available [here](/fastboot-package). Otherwise, you can follow the instructions below to flash via recovery using ADB sideload.
