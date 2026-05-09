@@ -16,6 +16,7 @@ sidebar_class_name: hidden
 ### Nothing
 
 - [Phone (2a) (Pacman)](/devices/Pacman)
+- [Phone (2a) Plus (PacmanPro)](/devices/PacmanPro)
 
 ### Realme
 - [6/6i(Indian)/6s/7/Narzo/Narzo 20 Pro/Narzo 30 4G (RM6785)](/devices/RM6785)
